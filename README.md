@@ -15,6 +15,7 @@ Model the series using ARIMA and Holt-Winters Exponential Smoothing.
 Validate model quality via residual diagnostics (Ljung-Box, Q-Q plot, ACF of residuals).
 Forecast BDI for Q1/Q2 2026 and evaluate accuracy with 95% confidence intervals.
 Assess business impact for shipping operators.
+
 3. Dataset Description
 Dataset: Baltic Dry Index Historical Data from investing.com.
 
